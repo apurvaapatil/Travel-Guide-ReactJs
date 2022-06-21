@@ -1,6 +1,6 @@
 # Tourist Travel Guide
 
-Deployed on Netlify: https://tourist-travel-companion.netlify.app/
+Deployed on Netlify: [https://tourist-travel-companion.netlify.app/](https://tour-ist.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/58740201/174795460-be475f23-3b47-4a63-a96b-e32da7be8632.png)
 
